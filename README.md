@@ -1,3 +1,25 @@
+#### Hacking .Net
+
+This site is dedicated to the development of an open computer science curriculumn that incorporates the .Net Core Framework and C# langauage.
+
+#### Information Systems
+
+#### Data Structures
+
+#### Web Programming
+
+#### Systems Programming
+
+#### Operating Systems
+
+#### Database Systems
+
+#### Compilers
+
+#### Enterprise Development
+
+#### Enterprise Architecture
+
 
 ####This is Hacking .Net on Privacy
 
