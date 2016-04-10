@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Hacking .Net</title>
+ <link href="" rel="self"/>
+ <link href=""/>
+ <updated>2016-04-10T15:00:33-07:00</updated>
+ <id></id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hacking Education</title>
+   <link href="/software%20teaching%20philosophy%20engineering/2016/04/10/hacking-education/"/>
+   <updated>2016-04-10T00:00:00-07:00</updated>
+   <id>/software%20teaching%20philosophy%20engineering/2016/04/10/hacking-education</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ 
+</feed>

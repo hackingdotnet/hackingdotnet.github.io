@@ -1,0 +1,23 @@
+# Site settings
+title: Hacking .Net
+header-img: img/home-bg.jpg
+email: hacker@eddierangel.com
+description: "...a witty subtitle"
+baseurl: ""
+url: "hackingdotnet.github.io"
+twitter_username: eddie_31003
+github_username:  hackingdotnet
+linkedin_username: eddierangel
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: [jekyll-paginate]
+
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-47781516-3'
