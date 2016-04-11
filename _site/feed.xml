@@ -5,24 +5,33 @@
     <description>...a witty subtitle</description>
     <link>hackingdotnet.github.io/</link>
     <atom:link href="hackingdotnet.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 10 Apr 2016 16:16:38 -0700</pubDate>
-    <lastBuildDate>Sun, 10 Apr 2016 16:16:38 -0700</lastBuildDate>
+    <pubDate>Sun, 10 Apr 2016 17:10:31 -0700</pubDate>
+    <lastBuildDate>Sun, 10 Apr 2016 17:10:31 -0700</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Hacking Education</title>
-        <description>
+        <description>&lt;p&gt;Computer Science curriculumn in post secondary education varies in breadth and depth. One consitent
+component is the study of C/C++ as the foundation of fundamental prgramming courses and Unix to serve
+as the foundation for systems programming and operating systems courses.&lt;/p&gt;
+
+&lt;p&gt;Through the years Computer Science curriculumn has evolved to include Object Oriented Programming, Networking, and Client/Server Architecture.
+Fundmental programming courses vary from using C/C++ to Python. Upper division courses typically include Java.&lt;/p&gt;
+
+&lt;p&gt;Hacking .Net is dedicated to delivering a set of courses aimed at teaching computer science through the lens of
+the .Net Core Framework.&lt;/p&gt;
+
 </description>
         <pubDate>Sun, 10 Apr 2016 00:00:00 -0700</pubDate>
-        <link>hackingdotnet.github.io/software%20teaching%20philosophy%20engineering/2016/04/10/hacking-education/</link>
-        <guid isPermaLink="true">hackingdotnet.github.io/software%20teaching%20philosophy%20engineering/2016/04/10/hacking-education/</guid>
+        <link>hackingdotnet.github.io/teaching/2016/04/10/hacking-education/</link>
+        <guid isPermaLink="true">hackingdotnet.github.io/teaching/2016/04/10/hacking-education/</guid>
         
         <category>free education</category>
         
         <category>open source</category>
         
         
-        <category>Software Teaching Philosophy Engineering</category>
+        <category>Teaching</category>
         
       </item>
     
