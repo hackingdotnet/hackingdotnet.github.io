@@ -4,7 +4,7 @@
  <title>Hacking .Net</title>
  <link href="" rel="self"/>
  <link href=""/>
- <updated>2016-04-10T16:16:38-07:00</updated>
+ <updated>2016-04-10T17:10:49-07:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -14,10 +14,19 @@
  
  <entry>
    <title>Hacking Education</title>
-   <link href="/software%20teaching%20philosophy%20engineering/2016/04/10/hacking-education/"/>
+   <link href="/teaching/2016/04/10/hacking-education/"/>
    <updated>2016-04-10T00:00:00-07:00</updated>
-   <id>/software%20teaching%20philosophy%20engineering/2016/04/10/hacking-education</id>
-   <content type="html">
+   <id>/teaching/2016/04/10/hacking-education</id>
+   <content type="html">&lt;p&gt;Computer Science curriculumn in post secondary education varies in breadth and depth. One consitent
+component is the study of C/C++ as the foundation of fundamental prgramming courses and Unix to serve
+as the foundation for systems programming and operating systems courses.&lt;/p&gt;
+
+&lt;p&gt;Through the years Computer Science curriculumn has evolved to include Object Oriented Programming, Networking, and Client/Server Architecture.
+Fundmental programming courses vary from using C/C++ to Python. Upper division courses typically include Java.&lt;/p&gt;
+
+&lt;p&gt;Hacking .Net is dedicated to delivering a set of courses aimed at teaching computer science through the lens of
+the .Net Core Framework.&lt;/p&gt;
+
 </content>
  </entry>
  

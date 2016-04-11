@@ -3,7 +3,7 @@ layout: post
 title: "Hacking Education"
 author: "Eddie Rangel"
 subtitle: "helping to create open curriculumn"
-category:Teaching
+category: Teaching
 tags: [free education, open source]
 ---
 
