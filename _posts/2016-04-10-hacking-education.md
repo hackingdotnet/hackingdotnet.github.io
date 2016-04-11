@@ -2,8 +2,7 @@
 layout: post
 title: "Hacking Education"
 author: "Eddie Rangel"
-subtitle: "helping to create open curriculumn"
-category: Software Teaching Philosophy Engineering
+subtitle: "helping to create open curriculumn"\
 tags: [free education, open source]
 ---
 
