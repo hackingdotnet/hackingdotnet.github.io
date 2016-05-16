@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Up and running with ASP.NET Core"
+author: "Eddie Rangel"
+subtitle: "Getting started with your first Web App"
+category: ASPNET
+tags: [ASP.NET Core, C#]
+---
+
+If you have not installed ASP.NET Core before the process of getting started is pretty straight forward.
+
+The stes I take are geared towards users on Mac OS X. It's even easier on Windows.
+
+Step 1: Install Mono
+http://www.mono-project.com/docs/getting-started/install/mac/
+
+Step 2: Install Visual Studio Code
+https://code.visualstudio.com/docs?dv=osx
+
+Step 3:Install ASP.NET Core
+Head over to https://get.asp.net/ At the time of this post the link will down load DNX-1.0.0-rc1-update1.pkg
+
+
+ 
